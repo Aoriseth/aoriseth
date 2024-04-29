@@ -1,4 +1,4 @@
-### Currently working as a freelance software engineer in Belgium 👋
+### Currently working as a freelance software engineer in Australia 👋
 
 <!--
 **Aoriseth/aoriseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
