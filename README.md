@@ -1,4 +1,5 @@
 ### Currently working as a freelance software engineer in Australia 👋
+I'm no longer active on github, but feel free to check my repositories at [Codeberg](https://codeberg.org/aoriseth)
 
 <!--
 **Aoriseth/aoriseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
